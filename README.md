@@ -1,2 +1,2 @@
 # face_recognition
-python program which identifies human face and cop it in to new image.
+python program which identifies human faces in an image and crop it into new images.
